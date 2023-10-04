@@ -55,11 +55,30 @@ graph LR
 
 https://github.com/ietf-wg-uuidrev/rfc4122bis/issues/144
 
-## open and closed issues from sectorial reviews
+* IANA UUID Variants Registry and Registration {#iana1}
+* What is the DNS reference and namespace?
+** Namespace ID Usage and Allocation {#namespaces}
+* IANA Reserved UUIDs Registry and Registration {#iana3}
+* IANA UUID Subtype Registry and Registration {#iana2} 
+
+## open and closed issues from sectorial / AD reviews
+
+* 
+* 
 
 ## UUIDv9 issues
 
+* are these concerns now resolved into v8 "name-based" text?
+
 ## discussion and chair questions
+
+* what things might need a subsequent document?
+* if we are accepting any significant changes, then do we reset to WGLC?
+* 
 
 ## Open Mic and AOB
 
+* things back to the WG mailing list: IETF process oriented issues!
+  ** should the WG reset back to WGLC?
+  ** all decisions made "today" need to come back to the ML, period.
+  ** 
